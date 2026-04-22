@@ -1,0 +1,8 @@
+[INFO]
+[ID:hivemind_mod]
+[NUMERIC_VERSION:1]
+[STRING_VERSION:0.1.0]
+[DISPLAYED_VERSION:0.1.0]
+[NAME:Hivemind Mod]
+[AUTHOR:J-S-Wijnbeek]
+[DESCRIPTION:Biomechanical hivemind fortress conversion with biomassa economy, digestor workflows, unit breeding, and caste-based swarm warfare.]

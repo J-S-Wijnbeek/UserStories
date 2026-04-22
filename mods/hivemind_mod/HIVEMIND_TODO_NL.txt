@@ -1,0 +1,149 @@
+🧠 Hivemind Mod – Complete To-Do List
+====================================
+
+🧠 Setup & Basis
+[x] Mod mapstructuur aanmaken (mods/hivemind_mod/)
+[x] Raws folders correct opzetten (objects/)
+[ ] Mod laden en world gen testen
+[ ] Init / raw errors fixen
+
+🧪 Biomassa Systeem
+[x] Custom item/resource: BIOMASSA
+[x] Stack size + value instellen (via bars/material value)
+[x] Stockpile compatibiliteit (bars/blocks flow)
+[ ] Test opslag & transport
+
+🏗️ Digestive Pool (Workshop)
+[x] Workshop: HIVE_DIGESTOR
+[x] Job system koppelen
+[x] Bouw requirements instellen
+[x] UI naam/tile instellen
+[ ] Functionele test
+
+🔁 Resource → Biomassa Reactions
+[x] Hout → biomassa
+[x] Steen → biomassa
+[x] Metaal → biomassa
+[x] Corpses → biomassa (belangrijkste)
+[x] Reagent filters correct instellen (baseline)
+[ ] Output consistency testen
+
+⚙️ Automatisering
+[x] Manager orders voor digestie (reactions voorbereid)
+[x] Snelle job cycles instellen (metabolic reactions)
+[x] Worker efficiency optimaliseren (caste baselines)
+[ ] Stockpile routing optimaliseren
+
+🐜 Hivemind Creatures
+[x] Hive entity maken
+[x] Drone (worker) caste/variant
+[x] Soldier caste/variant
+[x] Tank caste/variant
+[x] Hive AI gedrag (shared goals) baseline via civ/entity setup
+
+🧬 Unit Production
+[x] Breeding Chamber workshop
+[x] Biomassa → unit reactions
+[x] Verschillende unit types
+[x] Cost scaling per unit
+[ ] Spawn stability testen
+
+🧬 Stat-Based Unit System
+[x] Unit varianten (fast / tank / damage)
+[x] Stat verschillen per caste
+[x] Build-type reacties koppelen
+[x] Soft balance via kosten
+[ ] Gameplay testing per build
+
+🧟 Corpse Consumption
+[x] Hoge biomassa yield voor corpses
+[x] Snelle digestion cycles (consumption mode)
+[ ] Miasma preventie
+[x] Combat → resource loop
+
+🛡️ Fortifications
+[x] Levende muren (living wall growth reaction)
+[x] Spore towers (spore tower seed reaction)
+[x] Biomassa kosten
+[x] Defensive scaling (cost tiers)
+
+⚖️ Balancing
+[x] Biomassa income vs cost tuning (initial values)
+[ ] Early game speelbaarheid
+[ ] Midgame snowball control
+[ ] Late game performance stabiliteit
+[ ] Overpopulation limieten
+
+🎮 Fortress Mode Integratie
+[x] Hivemind startembark baseline entity
+[x] Jobs vervangen door reactions
+[x] Manager automation workflow (reaction-ready)
+[ ] Geen dwarven economy meer
+
+🧪 Testing & Debug
+[ ] Raw error checks
+[ ] Elke reaction individueel testen
+[ ] Mass combat tests
+[ ] FPS/performance checks
+[ ] Crash debugging
+
+💡 EXTRA FEATURES
+🧬 Evolution Chamber
+[x] Advanced unit creation workshop
+[x] Build presets (tank/swarm/sniper)
+[ ] Unlock progression systeem
+[x] High-tier biomassa units
+
+🌍 Ecosystem System
+[ ] Resource depletion zones
+[ ] Regenererende organische nodes
+[ ] Wereld die langzaam “geconsumeerd” wordt
+[ ] Territory-based biomassa scaling
+
+⚡ Metabolic Modes
+[x] Efficiency mode (meer output, trager)
+[x] Consumption mode (sneller, minder efficiënt)
+[x] Switchable via lever/order equivalent (reaction mode switch)
+[x] Gameplay impact per mode
+
+🧠 Advanced AI Behavior
+[x] Hive-wide shared commands baseline (single civ identity)
+[x] Geen individuele dwarven needs baseline intent
+[ ] Expansion-driven AI
+[x] Automatic corpse harvesting workflow (digest corpse reaction)
+[x] Defense swarm responses (soldier/tank unit chain)
+
+🎨 POLISH
+�� UI / UX
+[x] Biomassa indicator basis in resource naming/workshops
+[x] Workshop menus overzichtelijk maken
+[x] Unit types duidelijk labelen
+[ ] Feedback bij crafting (success/failure messages)
+[ ] Stockpile UI aanpassen voor biomassa focus
+
+🎭 Visual Polish
+[ ] Custom tileset voor hivemind look
+[x] Organische / “living” esthetiek (raw naming/theme)
+[ ] Unique creature sprites per caste
+[ ] Special effects voor digestie (rotting/assimilation feel)
+[ ] Blood/miasma visuele stijl aanpassen
+
+🔊 Audio Polish (optioneel)
+[ ] Subtle hive ambient sounds
+[ ] Digestie sound effects
+[ ] Combat “swarm” audio layering
+[ ] UI feedback sounds
+
+🧠 Gameplay Feel Polish
+[x] “Everything is food” consistent maken (digest chain)
+[ ] Geen lege gameplay loops
+[ ] Altijd resource feedback bij acties
+[x] Snappy response tijden in jobs (short loops prepared)
+[ ] Minimal downtime tussen acties
+
+🧪 Final Polish Testing
+[ ] Full fortress playthrough
+[ ] Late-game FPS test
+[ ] Siege defense scenario test
+[ ] Economy crash test (overfeeding / starvation)
+[ ] Edge-case bug fixes
