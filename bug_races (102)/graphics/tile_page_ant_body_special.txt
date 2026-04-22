@@ -1,0 +1,4 @@
+[TILE_PAGE:ANT_BODY_SPECIAL]
+	[FILE:images/ant_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:320:320]
