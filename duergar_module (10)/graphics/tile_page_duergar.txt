@@ -1,0 +1,33 @@
+tile_page_duergar
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:DUERGAR_LT_BODY]
+	[FILE:images/duergar/duergar_lt_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:224]
+
+[TILE_PAGE:DUERGAR_MT_BODY]
+	[FILE:images/duergar/duergar_md_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:224]
+
+[TILE_PAGE:DUERGAR_DT_BODY]
+	[FILE:images/duergar/duergar_dt_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:224]
+
+[TILE_PAGE:DUERGAR_HAIR]
+	[FILE:images/duergar/duergar_hair.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:192:608]
+
+[TILE_PAGE:DWARF_WEARABLES]
+	[FILE:images/duergar/dwarf_wearables.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:128:864]
+
+[TILE_PAGE:DWARF_BODY]
+	[FILE:images/duergar/dwarf_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:224]

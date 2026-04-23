@@ -1,0 +1,26 @@
+[STEAM_TITLE:PRR Module - Duergar]
+[STEAM_DESCRIPTION:
+[h3]This is simply a standalone module from the Playable Races Revisioned mod. This is made for people who like the Duergar, but don't want all of the other stuff included in the original mod, either for a more vanilla-friendly experience, or to combine with other preferred mods.[/h3]
+
+[h2]DUERGAR[/h2]
+
+-Duergar (Deep Dwarves) are an evil, corrupted subrace of Dwarves. They dwell in caverns, and as of now, only have small individual settlements, as they do not settle anywhere except mountains and underground caverns.
+-They have all the same needs as dwarves, but with some changes. Unlike dwarves, they are nocturnal, and only dwell in underground caverns, having a very limited surface presence. They are more predisposed to negative personality types, as well as evil ethics.
+-As evil aligned creatures, Duergar have access to evil animals like blind cave ogres and trolls, the same as goblins.
+-Being especially adapted to the underground, more so than normal dwarves, Duergar have some immunity to necrotic infections, as well as a +50% bonus to the learn rate for mining.
+-They have been granted a +20% bonus to the learn rate for hammers, the same as dwarves.
+
+[STEAM_TAG:mod]
+[STEAM_TAG:Duergar]
+[STEAM_TAG:Races]
+[STEAM_METADATA:metadata test]
+[ID:duergar_module]
+[NUMERIC_VERSION:10]
+[DISPLAYED_VERSION:1.0]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:10]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0]
+[AUTHOR:Vader]
+[NAME:PRR Module - Duergar]
+[DESCRIPTION:Adds only the Duergar race from the Playable Races Revisioned mod.]
+
+[STEAM_FILE_ID:3682679588]

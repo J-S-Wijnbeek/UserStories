@@ -1,0 +1,6 @@
+graphics_creatures_layered_statues_duergar
+
+[OBJECT:GRAPHICS]
+
+[STATUE_CREATURE_GRAPHICS:DUERGAR]
+        [DEFAULT:STATUES_LAYERED:0:0:0:1]

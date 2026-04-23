@@ -1,0 +1,6 @@
+graphics_creatures_interactions_duergar
+
+[OBJECT:GRAPHICS]
+
+[CREATURE_GRAPHICS:DUERGAR]
+	[CDI_LIST_ICON:SPIT:CREATURE_ABILITY_LIST_ICONS:0:0:4:3]
