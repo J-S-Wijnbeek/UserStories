@@ -1,0 +1,9 @@
+[package]
+name = "gameplay"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+sim_core = { path = "../sim_core" }
+world = { path = "../world" }

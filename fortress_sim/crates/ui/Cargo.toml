@@ -1,0 +1,10 @@
+[package]
+name = "ui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4"
+sim_core = { path = "../sim_core" }
+world = { path = "../world" }
+gameplay = { path = "../gameplay" }
