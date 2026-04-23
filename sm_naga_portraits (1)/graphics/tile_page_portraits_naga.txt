@@ -1,0 +1,216 @@
+tile_page_portraits_naga
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:PORTRAIT_NAGA_BODY]
+	[FILE:images/portraits/naga_portrait_body.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:1536:384]
+
+[TILE_PAGE:PORTRAIT_NAGA_BABY]
+	[FILE:images/portraits/naga_portrait_baby.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:96:96]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_UNDER]
+	[FILE:images/portraits/naga_portrait_clothing_under.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:96:96]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_CAP]
+	[FILE:images/portraits/naga_portrait_clothing_cap.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:384]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_COAT]
+	[FILE:images/portraits/naga_portrait_clothing_coat.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_FOUR_CLOTHING_COAT]
+	[FILE:images/portraits/naga_four_portrait_clothing_coat.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CLOTHING_COAT]
+	[FILE:images/portraits/naga_six_portrait_clothing_coat.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_VEST]
+	[FILE:images/portraits/naga_portrait_clothing_vest.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_FOUR_CLOTHING_VEST]
+	[FILE:images/portraits/naga_four_portrait_clothing_vest.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CLOTHING_VEST]
+	[FILE:images/portraits/naga_six_portrait_clothing_vest.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_SHIRT]
+	[FILE:images/portraits/naga_portrait_clothing_shirt.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_FOUR_CLOTHING_SHIRT]
+	[FILE:images/portraits/naga_four_portrait_clothing_shirt.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CLOTHING_SHIRT]
+	[FILE:images/portraits/naga_six_portrait_clothing_shirt.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_TOGA]
+	[FILE:images/portraits/naga_portrait_clothing_toga.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_FOUR_CLOTHING_TOGA]
+	[FILE:images/portraits/naga_four_portrait_clothing_toga.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CLOTHING_TOGA]
+	[FILE:images/portraits/naga_six_portrait_clothing_toga.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_MAIL_SHIRT]
+	[FILE:images/portraits/naga_portrait_clothing_chainmail.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_FOUR_CLOTHING_MAIL_SHIRT]
+	[FILE:images/portraits/naga_four_portrait_clothing_chainmail.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CLOTHING_MAIL_SHIRT]
+	[FILE:images/portraits/naga_six_portrait_clothing_chainmail.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_LEATHER]
+	[FILE:images/portraits/naga_portrait_clothing_leather.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:96]
+
+[TILE_PAGE:PORTRAIT_NAGA_FOUR_CLOTHING_LEATHER]
+	[FILE:images/portraits/naga_four_portrait_clothing_leather.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:96]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CLOTHING_LEATHER]
+	[FILE:images/portraits/naga_six_portrait_clothing_leather.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:96]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_BREASTPLATE]
+	[FILE:images/portraits/naga_portrait_clothing_breastplate.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:96]
+
+[TILE_PAGE:PORTRAIT_NAGA_FOUR_CLOTHING_BREASTPLATE]
+	[FILE:images/portraits/naga_four_portrait_clothing_breastplate.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:96]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CLOTHING_BREASTPLATE]
+	[FILE:images/portraits/naga_six_portrait_clothing_breastplate.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:96]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_CLOAK]
+	[FILE:images/portraits/naga_portrait_clothing_cloak.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_FOUR_CLOTHING_CLOAK]
+	[FILE:images/portraits/naga_four_portrait_clothing_cloak.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CLOTHING_CLOAK]
+	[FILE:images/portraits/naga_six_portrait_clothing_cloak.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_CAPE]
+	[FILE:images/portraits/naga_portrait_clothing_cape.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:384]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CLOTHING_CAPE]
+	[FILE:images/portraits/naga_six_portrait_clothing_cape.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:384]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_VEIL_HEAD]
+	[FILE:images/portraits/naga_portrait_clothing_headveil.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:288]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_HOOD]
+	[FILE:images/portraits/naga_portrait_clothing_hood.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:288]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_VEIL_FACE]
+	[FILE:images/portraits/naga_portrait_clothing_veil.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:192]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_HELM]
+	[FILE:images/portraits/naga_portrait_clothing_helmet.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:288]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_TURBAN]
+	[FILE:images/portraits/naga_portrait_clothing_turban.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:288]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_SCARF_HEAD]
+	[FILE:images/portraits/naga_portrait_clothing_headscarf.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:288]
+
+[TILE_PAGE:PORTRAIT_NAGA_CLOTHING_MASK]
+	[FILE:images/portraits/naga_portrait_clothing_mask.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:672:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_SKELETON]
+	[FILE:images/portraits/naga_portrait_skeleton.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:384:192]
+
+[TILE_PAGE:PORTRAIT_NAGA_CHILD_BODY]
+	[FILE:images/portraits/naga_portrait_child_body.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:864:384]
+
+[TILE_PAGE:PORTRAIT_NAGA_CHILD_CLOTHING]
+	[FILE:images/portraits/naga_portrait_child_clothing.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:384:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_FOUR_CHILD_CLOTHING]
+	[FILE:images/portraits/naga_four_portrait_child_clothing.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:384:480]
+
+[TILE_PAGE:PORTRAIT_NAGA_SIX_CHILD_CLOTHING]
+	[FILE:images/portraits/naga_six_portrait_child_clothing.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM_PIXELS:384:480]
+
+
+

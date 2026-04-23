@@ -1,0 +1,7 @@
+Naga in the original mod actually have several dozen different eye colors, but SEEU seems to have accidentally defined eyes twice, one of which is overwriting these colors with the only possible color being black. This is an optional mod you can install to edit the creature file for the naga to overwrite their eye colors to make them colorful. 
+
+This is an optional file for two reasons, one is that in order to actually edit and overwrite the Naga's graphics and to add on portraits, the base mod must load BEFORE the original mod (since mods loaded first have priority), but in order to SELECT and edit the colors token on the naga this add-on mod needs to load AFTER the naga are loaded, making it impossible to have them be in the same single mod. Second is that the naga look signifigantly less intimidating and serpent-like without always having red eyes, so some people might not like it.
+
+If installed, it'll also edit the graphics for their portraits to change their eye colors to be represented too. They stay black in their description and red in their portraits if this isn't installed.
+
+To install, Drag the "naga eyes fix (1)" folder into your "Dwarf Fortress/data/installed_mods/" folder, then when you start a new world load this as a mod under the original Naga Civ mod.

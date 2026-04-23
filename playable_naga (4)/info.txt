@@ -1,0 +1,41 @@
+[ID:playable_naga]
+[NUMERIC_VERSION:4]
+[DISPLAYED_VERSION:]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:]
+[AUTHOR:Infinite Eyes]
+[NAME:Playable Naga Civilization]
+[DESCRIPTION:Makes the Naga Civilization Playable.]
+[STEAM_TITLE:Playable Naga Civilization]
+
+[STEAM_DESCRIPTION: Naga Civilization made playable. Requires the original Naga mod and the updated Naga Graphics mod.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2904134678] Original Naga Mod [/url] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3471896823] Naga Updated Graphics mod [/url] 
+
+This mod changes the animals available to Naga to increase the distinctness of their civ.
+
+Their animals are: Saltwater Crocodiles, Black Mambas, Copperhead Snakes, Anacondas, Capybaras, Tapirs, Spider Monkeys, Alligator Snapping Turtles, and Giant Pythons.
+
+Saltwater Crocodiles, Black Mambas, Anacondas, and Giant Pythons are trainable for war.
+
+Alligator Snapping Turtles are your source of shell, for making Shellsteel.
+
+Giant Pythons have their price increased, and lay only a single egg.
+
+Saltwater Crocs are Wagon Pullers, and Tapirs are pack animals. Spider Monkey fur is usable for yarn.
+
+Copperhead Snakes replace cats as vermin hunters that adopt owners. They are sped up a bit.
+
+Nagas are now active in the summer (caravans).]
+[STEAM_TAG:mod]
+[STEAM_TAG:race]
+[STEAM_TAG:creature]
+[STEAM_TAG:entity]
+[STEAM_CHANGELOG:Made load order force the mod after the original Naga mod. Otherwise the unplayable Naga civ might spawn instead.]
+[REQUIRES_ID_BEFORE_ME:sm_cv_naga]
+
+
+
+[STEAM_FILE_ID:3569987445]

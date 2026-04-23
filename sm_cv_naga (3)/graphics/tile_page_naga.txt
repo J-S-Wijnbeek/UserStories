@@ -1,0 +1,48 @@
+tile_page_naga
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:NAGA_ARMOR]
+	[FILE:images/naga_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:384]
+
+[TILE_PAGE:NAGA_BODY]
+	[FILE:images/naga_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:NAGA_BODY_CORPSE]
+	[FILE:images/naga_body_corpse.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:96:288]
+
+[TILE_PAGE:NAGA_BODY_SPECIAL]
+	[FILE:images/naga_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
+[TILE_PAGE:NAGA_CLOTHES]
+	[FILE:images/naga_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:320]
+
+[TILE_PAGE:NAGA_WIELDABLES_NEW]
+	[FILE:images/naga_wieldables_new.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:960:224]
+
+[TILE_PAGE:NAGA_WIELDABLES_OLD]
+	[FILE:images/naga_wieldables_old.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:960:864]
+
+[TILE_PAGE:NAGA_WIELDABLES_OLD_SHELLSTEEL]
+	[FILE:images/naga_wieldables_old_shellsteel.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:192:864]
+	
+[TILE_PAGE:NAGA_WEAPONS]
+	[FILE:images/item_weapons_naga.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:64:64]

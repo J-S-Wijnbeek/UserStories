@@ -1,0 +1,33 @@
+tile_page_creatures_naga_updated
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:NAGA_BODY]
+	[FILE:images/naga/naga_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:96]
+
+[TILE_PAGE:NAGA_WIELDABLES]
+	[FILE:images/naga/naga_wieldables.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:224:1024]
+
+[TILE_PAGE:NAGA_WEARABLES]
+	[FILE:images/naga/naga_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:64:704]
+
+[TILE_PAGE:NAGA_CHILD_WEARABLES]
+	[FILE:images/naga/naga_child_wearables.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:64:416]
+
+[TILE_PAGE:STATUES_NAGA]
+	[FILE:images/naga/creatures_naga_statues.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:192]
+
+[TILE_PAGE:NAGA_EYES]
+	[FILE:images/naga/naga_eyes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:64:32]
